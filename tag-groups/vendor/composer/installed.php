@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'taxopress/tag-groups',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '90761c216ca1e73ca5e92e83926733cdd1f5fa21',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'taxopress/tag-groups' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '90761c216ca1e73ca5e92e83926733cdd1f5fa21',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
