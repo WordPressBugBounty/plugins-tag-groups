@@ -81,7 +81,7 @@
                     "dev-master": "2.0.x-dev"
                 }
             },
-            "installation-source": "dist",
+            "installation-source": "source",
             "autoload": {
                 "psr-4": {
                     "Psr\\Container\\": "src/"
@@ -132,7 +132,7 @@
             },
             "time": "2022-08-15T18:07:23+00:00",
             "type": "library",
-            "installation-source": "dist",
+            "installation-source": "source",
             "autoload": {
                 "files": [
                     "BannersMain.php"
@@ -191,7 +191,7 @@
             },
             "time": "2023-04-05T21:15:43+00:00",
             "type": "library",
-            "installation-source": "dist",
+            "installation-source": "source",
             "autoload": {
                 "psr-4": {
                     "PPVersionNotices\\": "src/"
