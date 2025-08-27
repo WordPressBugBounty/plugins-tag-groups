@@ -3,7 +3,7 @@
         'name' => 'taxopress/tag-groups',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'b1600a5ec4cca29c17aa9c87f774ffd9c632f85d',
+        'reference' => '845b3b60c0142f8a0befad68182a332f06a9ff70',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -49,7 +49,7 @@
         'taxopress/tag-groups' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'b1600a5ec4cca29c17aa9c87f774ffd9c632f85d',
+            'reference' => '845b3b60c0142f8a0befad68182a332f06a9ff70',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
