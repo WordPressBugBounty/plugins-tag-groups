@@ -3,7 +3,7 @@
         'name' => 'taxopress/tag-groups',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '7e1ed9fe5c1b57128c667c17f5888ace37caa8b1',
+        'reference' => '01333e8e58ffc9ff327125a159a46bbd54ddc166',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'pimple/pimple' => array(
-            'pretty_version' => 'v3.5.0',
-            'version' => '3.5.0.0',
-            'reference' => 'a94b3a4db7fb774b3d78dad2315ddc07629e1bed',
+            'pretty_version' => 'v3.6.2',
+            'version' => '3.6.2.0',
+            'reference' => '8cfe7f74ac22a433d303914eba9ea4c2a834edce',
             'type' => 'library',
             'install_path' => __DIR__ . '/../pimple/pimple',
             'aliases' => array(),
@@ -49,7 +49,7 @@
         'taxopress/tag-groups' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '7e1ed9fe5c1b57128c667c17f5888ace37caa8b1',
+            'reference' => '01333e8e58ffc9ff327125a159a46bbd54ddc166',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
